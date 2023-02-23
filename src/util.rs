@@ -46,7 +46,7 @@ pub fn multi_search(pool: &str, spears: &Vec<&str>) -> Option<(usize, usize)> {
         }
     }
 
-    if pool.len() == 1 {
+    if pool.len() == 1 || pool.len() == 0{
         return None;
     }
 

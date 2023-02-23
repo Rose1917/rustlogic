@@ -1,10 +1,10 @@
 [package]
 name = "rustlogic"
-version = "0.2.0"
-authors = ["Gijs Burghoorn <g.burghoorn@gmail.com>"]
+version = "0.1.0"
+authors = ["march1917 <renyanjie01@gmail.com>"]
 edition = "2018"
-description = "A Rust Library for basic parsing and handling of logical formulas"
-homepage = "https://github.com/coastalwhite/rustlogic"
+description = "A Rust Library for basic parsing and handling of logical formulas(forked from coastalwhite)"
+homepage = "https://github.com/Rose1917/rustlogic"
 repository = "https://github.com/coastalwhite/rustlogic.git"
 license = "MIT"
 readme = "./README.md"
